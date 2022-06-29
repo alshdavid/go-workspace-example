@@ -1,3 +1,3 @@
-module github.com/alshdavid/bar
+module github.com/alshdavid/modules/bar
 
 go 1.18
