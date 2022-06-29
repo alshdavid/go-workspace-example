@@ -1,3 +1,3 @@
 package bar
 
-var Bar = "hello"
+var Bar = "helloo"
