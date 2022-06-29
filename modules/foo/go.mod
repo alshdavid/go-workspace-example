@@ -1,3 +1,3 @@
-module github.com/alshdavid/modules/foo
+module github.com/alshdavid/go-workspace-example/modules/foo
 
 go 1.18

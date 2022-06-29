@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/alshdavid/modules/bar"
+	"github.com/alshdavid/go-workspace-example/modules/bar"
 )
 
 func main() {
